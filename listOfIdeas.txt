@@ -43,3 +43,14 @@ Name:	cookbook
 or:		... and more ... ???
 
 =========0=========0=========0=========0=========0=========0=========0=========0
+
+Name:	bike network
+
+or:		somehow: combines cycling track recorder and 
+		serendipitous geo proximity
+		along with control over how much info is seen and when
+		(e.g., on morning commute in seculded "heads down" mode
+		on nice Sunday afternoon in adventuresome mode)
+		
+
+=========0=========0=========0=========0=========0=========0=========0=========0
