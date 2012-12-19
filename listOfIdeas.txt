@@ -1,0 +1,45 @@
+=========0=========0=========0=========0=========0=========0=========0=========0
+
+simple place to collect product ideas and elaborations
+and to get more comfortable with git, github, egit
+
+=========0=========0=========0=========0=========0=========0=========0=========0
+
+Name:	hail taxi
+
+or:		in general, summon geographically oriented service(s)
+
+=========0=========0=========0=========0=========0=========0=========0=========0
+
+Name:	go-no-go
+
+or:		based on geo location, current speed and "track vector" and
+		using http://www.city-data.com/ or similar, provide "NO GO" 
+		warnings ... configurable in terms of thresholds and 
+		maybe user script for total reconfig and control.
+		some might define crime > u.s. average of 319
+		others (risk takers) might use crime > 500
+		others (risk averse) might use crime > 200
+		some might include "... diverse = true ..." etc etc
+		
+=========0=========0=========0=========0=========0=========0=========0=========0
+
+Name:	eHaggle
+
+or:		infrastructure to allow two or more entities
+		to haggle/barter/? over stuff for sale
+		...
+
+=========0=========0=========0=========0=========0=========0=========0=========0
+
+Name:	full stop
+
+or:		warns of rolling stop in automobile
+
+=========0=========0=========0=========0=========0=========0=========0=========0
+
+Name:	cookbook
+
+or:		... and more ... ???
+
+=========0=========0=========0=========0=========0=========0=========0=========0

@@ -1,9 +1,10 @@
-p0
+project:	p0
+
 ==
 
-proj zero
+I do not yet know the significance of ".md", perhapps meta data ?
 
-etc etc
-blah
-i had forgot to commit
-new last line 1
+for now, i will put a one line explaination of top level files
+
+1. listOfIdeas - repository for product/service ideas.
+
